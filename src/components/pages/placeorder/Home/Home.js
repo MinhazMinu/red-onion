@@ -1,6 +1,6 @@
 import React from "react";
 
-import fakedata from "../../../../fakedata";
+import fakedata from "../../../../asset/fakedata";
 import "./Home.css";
 
 import Navi from "../../../nav/Navi";
