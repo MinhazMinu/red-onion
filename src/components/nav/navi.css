@@ -1,0 +1,24 @@
+.navSection {
+  display: flex;
+  justify-content: center;
+}
+
+nav {
+  background-color: white;
+  line-height: 40px;
+  font-size: 18px;
+  font-weight: 600;
+}
+nav a {
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;
+  padding: 6px;
+  transition: all 0.25s linear;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  color: rgb(241, 75, 102);
+  text-decoration: none;
+}
