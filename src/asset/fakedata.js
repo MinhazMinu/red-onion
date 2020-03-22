@@ -1,7 +1,7 @@
-export const foodItems = [
+const AllFoods = [
   {
     id: 1,
-    title: "breakfast",
+    title: "Breakfast",
     food: [
       {
         id: 1,
@@ -67,7 +67,7 @@ export const foodItems = [
   },
   {
     id: 2,
-    title: "lunch",
+    title: "Lunch",
     food: [
       {
         id: 7,
@@ -134,7 +134,7 @@ export const foodItems = [
   },
   {
     id: 3,
-    title: "dinner",
+    title: "Dinner",
     food: [
       {
         id: 13,
@@ -199,3 +199,5 @@ export const foodItems = [
     ]
   }
 ];
+
+export default AllFoods;

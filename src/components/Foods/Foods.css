@@ -1,0 +1,21 @@
+.food-section nav li {
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 20px;
+  transition: all 0.3s linear;
+}
+
+.food-section nav .active {
+  color: #ff5874;
+}
+
+.active::after {
+  content: "";
+  width: 80%;
+  height: 4px;
+  border-radius: 5px;
+  margin: 0 auto;
+  background-color: #ff5874;
+  display: block;
+}

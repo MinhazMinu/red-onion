@@ -1,9 +1,9 @@
 .btn {
-  background-color: #ff5874;
   border: none;
   padding: 10px 20px;
 }
 
 .btn-round {
   border-radius: 200px;
+  background-color: #ff5874;
 }
