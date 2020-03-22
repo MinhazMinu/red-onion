@@ -1,0 +1,15 @@
+.hero-section-img {
+  background-image: url("../../asset/bannerbackground.png");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 80vh;
+  width: 100vw;
+}
+
+.form-control {
+  border-radius: 25px;
+  border: none;
+}
