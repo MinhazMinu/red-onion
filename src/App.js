@@ -8,6 +8,7 @@ import Hero from "./components/Hero/Hero";
 import Foods from "./components/Foods/Foods";
 import AllFeatures from "./components/AllFeatures/AllFeatures";
 import FoodDetails from "./components/FoodDetails/FoodDetails";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
             <Hero></Hero>
             <Foods></Foods>
             <AllFeatures></AllFeatures>
+            <Footer></Footer>
           </Route>
           <Route path="/food/:id">
             <FoodDetails></FoodDetails>

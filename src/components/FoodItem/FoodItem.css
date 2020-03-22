@@ -1,0 +1,26 @@
+.card {
+  border: none;
+  transition: all 0.3s linear;
+}
+.card:hover {
+  box-shadow: 2px 5px 10px lightgray;
+}
+
+.foodImg img {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+}
+
+/* .foodImg img {
+  height: 30%;
+  width: 80%;
+  margin: 0 auto;
+} */

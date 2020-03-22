@@ -10,8 +10,8 @@ const Foods = () => {
     setFoods(fakeData);
   }, []);
 
-  const foodSelected = foods.filter(food => food.title === "Breakfast");
-  // console.log(foodSelected);
+  const foodSelected = foods.filter(food => food.title === foodTime);
+  // console.log(foodSelected[0] && foodSelected[0].food);
 
   return (
     <div className="food-section">
@@ -53,9 +53,10 @@ const Foods = () => {
         {/* end of food nav */}
 
         <div className="row my-4">
-          {foodSelected.map(item => (
-            <FoodItem key={item.id} food={item.food}></FoodItem>
-          ))}
+          {foodSelected[0] &&
+            foodSelected[0].food.map(item => (
+              <FoodItem key={item.id} food={item}></FoodItem>
+            ))}
         </div>
         <div className="text-center">
           <button className="disabled btn btn-secondary ">
