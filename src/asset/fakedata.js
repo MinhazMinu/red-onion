@@ -6,7 +6,9 @@ export const foodItems = [
       {
         id: 1,
         name: "Bagel and cream chees",
-        img: "https://ibb.co/vmb6CDh",
+        img: "https://i.ibb.co/879rphK/breakfast1.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "breakfast",
         price: 6.99
@@ -14,7 +16,9 @@ export const foodItems = [
       {
         id: 2,
         name: "Breakfast sandwich",
-        img: "https://ibb.co/znnPGZ5",
+        img: "https://i.ibb.co/xMtwvQT/breakfast2.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "breakfast",
         price: 9.99
@@ -22,7 +26,9 @@ export const foodItems = [
       {
         id: 3,
         name: "Baked Chicken",
-        img: "https://ibb.co/QF7wsKx",
+        img: "https://i.ibb.co/Ld03Msx/breakfast3.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "breakfast",
         price: 10.99
@@ -30,7 +36,9 @@ export const foodItems = [
       {
         id: 4,
         name: "Egg Benedict",
-        img: "https://ibb.co/PF9gZk7",
+        img: "https://i.ibb.co/7JXVCgc/breakfast4.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "breakfast",
         price: 8.99
@@ -38,7 +46,9 @@ export const foodItems = [
       {
         id: 5,
         name: "Toast Croissant Fried egg",
-        img: "https://ibb.co/ZTcs6hG",
+        img: "https://i.ibb.co/zP7zWtJ/breakfast5.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "breakfast",
         price: 19.99
@@ -46,7 +56,9 @@ export const foodItems = [
       {
         id: 6,
         name: "Full Breakfast Fried Egg Toast",
-        img: "https://ibb.co/vZtj1CB",
+        img: "https://i.ibb.co/5FBSw1j/breakfast6.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "breakfast",
         price: 3.99
@@ -60,7 +72,10 @@ export const foodItems = [
       {
         id: 7,
         name: "Healthy Meal Plan",
-        img: "https://ibb.co/B6TRn9y",
+        img: "https://i.ibb.co/gWtC4xS/lunch1.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
+
         des: "How we dream about our future",
         section: "lunch",
         price: 23.99
@@ -68,7 +83,9 @@ export const foodItems = [
       {
         id: 8,
         name: "Fried Chicken Bento",
-        img: "https://ibb.co/zbVBgFB",
+        img: "https://i.ibb.co/FJ4y1Xy/lunch2.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "lunch",
         price: 9.99
@@ -76,7 +93,9 @@ export const foodItems = [
       {
         id: 9,
         name: "Tarragon-rubbed-Salmon",
-        img: "https://ibb.co/SVbYYnL",
+        img: "https://i.ibb.co/XF100sw/lunch3.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "lunch",
         price: 6.99
@@ -84,7 +103,9 @@ export const foodItems = [
       {
         id: 10,
         name: "Indian Lunch",
-        img: "https://ibb.co/mvX9snr",
+        img: "https://i.ibb.co/z87Xc3W/lunch4.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "lunch",
         price: 8.99
@@ -92,7 +113,9 @@ export const foodItems = [
       {
         id: 11,
         name: "Beef Steak",
-        img: "https://ibb.co/K9PJbNm",
+        img: "https://i.ibb.co/br0kQH7/lunch5.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "lunch",
         price: 15.99
@@ -100,7 +123,9 @@ export const foodItems = [
       {
         id: 12,
         name: "Salmon- with Peppers",
-        img: "https://ibb.co/DkSNby6",
+        img: "https://i.ibb.co/WFYQ3wd/lunch6.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "lunch",
         price: 7.99
@@ -114,7 +139,9 @@ export const foodItems = [
       {
         id: 13,
         name: "Salmon With Lantil Salad ",
-        img: "https://ibb.co/ZmWF7fg",
+        img: "https://i.ibb.co/S024DJc/dinner1.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "dinner",
         price: 9.99
@@ -122,7 +149,9 @@ export const foodItems = [
       {
         id: 14,
         name: "Lamony Salmon Piccata",
-        img: "https://ibb.co/N2FMXG9",
+        img: "https://i.ibb.co/Z6RDyMb/dinner3.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "dinner",
         price: 10.99
@@ -130,7 +159,9 @@ export const foodItems = [
       {
         id: 15,
         name: "Pork Tendarloin with salad",
-        img: "https://ibb.co/fY2tF8R",
+        img: "https://i.ibb.co/vVQkx97/dinner4.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "dinner",
         price: 12.99
@@ -138,7 +169,9 @@ export const foodItems = [
       {
         id: 16,
         name: "France Fries With Cheese",
-        img: "https://ibb.co/fY2tF8R",
+        img: "https://i.ibb.co/pX4Dv3b/dinner5.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "dinner",
         price: 8.99
@@ -146,7 +179,9 @@ export const foodItems = [
       {
         id: 17,
         name: "Garlic Butter Backed Chicken",
-        img: "https://ibb.co/z4ZXYkn",
+        img: "https://i.ibb.co/bWWNzX3/dinner2.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "dinner",
         price: 6.99
@@ -154,7 +189,9 @@ export const foodItems = [
       {
         id: 18,
         name: "Backed Chicken",
-        img: "https://ibb.co/FBLcvtT",
+        img: "https://i.ibb.co/Gch57fJ/dinner6.png",
+        longDes:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum consectetur adipisicing elit. Tempora totam reiciendis illum rem non rerum",
         des: "How we dream about our future",
         section: "dinner",
         price: 9.99
